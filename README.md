@@ -24,11 +24,9 @@ MyJobs.com.br é um site de busca de emprego que conecta candidatos e recrutador
 ## Aplicação para vaga
 ![diagrama_sequencial_aplicacao_vaga_projeto_myjobs com br_grupo_02 drawio](https://github.com/kaykymatos/Myjobs.com.br/assets/64444829/8aee7a6c-a3a4-45aa-b7ed-ce2c9f8dc1e8)
 
-# Diagrama de estado
-![Diagrama_de_estado_myjobs com br_grupo02](https://github.com/kaykymatos/Myjobs.com.br/assets/64444829/0b47c412-e0b0-4022-8946-145ffbd9b303)
+# Diagramas de estado
+## Cadastro usuário
+![diagrama_de_estado_criacao_usuario_projeto_myjobs com br_grupo_02](https://github.com/kaykymatos/Myjobs.com.br/assets/64444829/950a39e0-ef1e-40cf-bc3b-e1fb475fc642)
 
-# Diagrama de interação entre classes
-![Diagrama_de_interacao_entre_classes_myjobs com br_grupo02](https://github.com/kaykymatos/Myjobs.com.br/assets/64444829/06ce069f-237d-42c4-a4ca-70a865da9051)
-
-
-
+## Aplicação para vaga
+![diagrama_de_estado_aplicacao_para_vaga_projeto_myjobs com br_grupo_02](https://github.com/kaykymatos/Myjobs.com.br/assets/64444829/66f832c0-d102-48fe-b3e9-8ee80e2cda9c)
