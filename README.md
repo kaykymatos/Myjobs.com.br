@@ -9,23 +9,24 @@ MyJobs.com.br é um site de busca de emprego que conecta candidatos e recrutador
 ![Diagrama_de_caso_de_uso_projero_Myjobs com_grupo02](https://github.com/kaykymatos/Myjobs.com.br/assets/64444829/56529923-de8c-48d2-8386-9b7825963e0a)
 
 # Diagrama de classes
-![diagrama_de_classes_projeto_myjobs com br_grupo_02 png](https://github.com/kaykymatos/Myjobs.com.br/assets/64444829/6b277624-ab50-4ece-9533-5be8fcdc87e6)
+![diagrama_de_classes_projeto_myjobs com br_grupo_02 drawio](https://github.com/kaykymatos/Myjobs.com.br/assets/64444829/b2461714-6697-4a79-8a79-607078355a46)
 
 # Diagramas Sequenciais
 ## Cadastro
-![diagrama_sequencial_cadastro_projeto_myjobs com br_grupo_02 drawio](https://github.com/kaykymatos/Myjobs.com.br/assets/64444829/c3f2f478-5478-4773-b1a6-57a65e7b4cce)
+![diagrama_sequencial_cadastro_projeto_myjobs com br_grupo_02 drawio](https://github.com/kaykymatos/Myjobs.com.br/assets/64444829/042f2dcd-d39a-4198-bcd7-b32675d88272)
+
+## Confirmação de e-mail
+![diagrama_sequencial_confirmacao_email_projeto_myjobs com br_grupo_02 drawio](https://github.com/kaykymatos/Myjobs.com.br/assets/64444829/4966099e-4b72-4330-b8ae-29e3fccc1100)
 
 ## Login
-![diagrama_sequencial_login_projeto_myjobs com br_grupo_02 drawio](https://github.com/kaykymatos/Myjobs.com.br/assets/64444829/e27bdfb8-74b7-4996-83de-f7ab447dbd54)
+![diagrama_sequencial_login_projeto_myjobs com br_grupo_02 drawio](https://github.com/kaykymatos/Myjobs.com.br/assets/64444829/026edbab-1e82-4830-8bdd-873519c1e964)
 
 ## Aplicação para vaga
-![diagrama_sequencial_aplicacao_vaga_projeto_myjobs com br_grupo_02 drawio](https://github.com/kaykymatos/Myjobs.com.br/assets/64444829/c3b5e5b7-fa2a-4249-8bd5-1f0e811f7978)
+![diagrama_sequencial_aplicacao_vaga_projeto_myjobs com br_grupo_02 drawio](https://github.com/kaykymatos/Myjobs.com.br/assets/64444829/8aee7a6c-a3a4-45aa-b7ed-ce2c9f8dc1e8)
 
-# Diagrama de estado
-![Diagrama_de_estado_myjobs com br_grupo02](https://github.com/kaykymatos/Myjobs.com.br/assets/64444829/0b47c412-e0b0-4022-8946-145ffbd9b303)
+# Diagramas de estado
+## Cadastro usuário
+![diagrama_de_estado_criacao_usuario_projeto_myjobs com br_grupo_02](https://github.com/kaykymatos/Myjobs.com.br/assets/64444829/950a39e0-ef1e-40cf-bc3b-e1fb475fc642)
 
-# Diagrama de interação entre classes
-![Diagrama_de_interacao_entre_classes_myjobs com br_grupo02](https://github.com/kaykymatos/Myjobs.com.br/assets/64444829/06ce069f-237d-42c4-a4ca-70a865da9051)
-
-
-
+## Aplicação para vaga
+![diagrama_de_estado_aplicacao_para_vaga_projeto_myjobs com br_grupo_02](https://github.com/kaykymatos/Myjobs.com.br/assets/64444829/66f832c0-d102-48fe-b3e9-8ee80e2cda9c)
